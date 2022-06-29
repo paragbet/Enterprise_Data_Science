@@ -3,7 +3,7 @@ Enterprise Data Science Submission -1
 
 This repository contains the first sumbmission of Enterprise Data Science. 
 
-This repository contains two notebooks. 
+This repository contains one notebook. 
 
 The notebook "Infected Vs Population and Vaccnation vs Population.ipynb" gives the totoal percentage population of a country infected by COVID-19 as well as the percentage of Fully Vaccinated People. 
 
