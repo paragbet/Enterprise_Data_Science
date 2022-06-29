@@ -11,7 +11,7 @@ The notebook "Infected Vs Population and Vaccnation vs Population.ipynb" gives t
 The data sources used in the notebooks are as follows:
 
 1. For number of infected people in each country:
-https://github.com/CSSEGISandData/COVID-19.git
+"https://covid.ourworldindata.org/data/owid-covid-data.csv"
 
 2. For number of vaccinated people in each country: 
 https://github.com/govex/COVID-19
